@@ -71,13 +71,13 @@ body{
     text-decoration: none;
     color: #f6f6f6;
     font-family: 'Montserrat', sans-serif;
-    transition: 1s;
     cursor: pointer;
 }
 
 .apresentacao__links__link:hover{ /* efeito transicao */
-    background-color: #22D4FD;
-    border: 2px solid #22D4FD;
-    color: #000000;
-    transition: 1s;
+    background-color: #272727;
+}
+
+.apresentacao__imagem:hover{
+    opacity: 0.8;
 }
